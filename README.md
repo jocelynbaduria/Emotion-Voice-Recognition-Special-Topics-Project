@@ -5,3 +5,17 @@
 2. [Presentation Report](https://docs.google.com/presentation/d/1-oAgCE3lRnfluL5_81Fle0Ob5clA56obJb8_h8iBp6k/edit#slide=id.g103c86387bb_0_166)
 3. [Project Final Report](https://docs.google.com/document/d/1q2SaXnbcIpTH_P9CYasodLvXIYnPD5wzxFNv73Lzajw/edit#)
 4. [Data](https://drive.google.com/drive/folders/1A-hQey9c_l-zRqQeAXd79XCkUjwT5h5a?usp=sharing)
+5. Gradio App
+![Screen Shot 2021-12-09 at 12 47 51 AM](https://user-images.githubusercontent.com/62075076/145441600-4fbc8fe3-b71b-416c-b835-e86624c07911.png)
+6. Visualization Happy Voice Emotion
+   ![Screen Shot 2021-12-09 at 9 03 10 AM](https://user-images.githubusercontent.com/62075076/145442511-e5032bae-a8c9-4295-819d-288d4e70cf93.png)
+   
+   Visualization Angry Voice Emotion
+![Screen Shot 2021-12-09 at 9 03 25 AM](https://user-images.githubusercontent.com/62075076/145442936-161dbf98-09f6-47cb-8000-3436284c62af.png)
+
+
+8. WandB
+![Screen Shot 2021-12-09 at 12 51 32 AM](https://user-images.githubusercontent.com/62075076/145441897-fb289221-5a49-4b9a-b6aa-184c71cb6c2d.png)
+![Screen Shot 2021-12-09 at 12 53 06 AM](https://user-images.githubusercontent.com/62075076/145441923-75844263-7a09-42a7-b85b-de00ab26bd05.png)
+![Screen Shot 2021-12-09 at 12 53 26 AM](https://user-images.githubusercontent.com/62075076/145441969-0246b3d7-b5d9-4fb2-a4c2-1e4b49259517.png)
+7. Vertex AI

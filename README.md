@@ -19,4 +19,15 @@
 ![Screen Shot 2021-12-09 at 12 51 32 AM](https://user-images.githubusercontent.com/62075076/145441897-fb289221-5a49-4b9a-b6aa-184c71cb6c2d.png)
 ![Screen Shot 2021-12-09 at 12 53 06 AM](https://user-images.githubusercontent.com/62075076/145441923-75844263-7a09-42a7-b85b-de00ab26bd05.png)
 ![Screen Shot 2021-12-09 at 12 53 26 AM](https://user-images.githubusercontent.com/62075076/145441969-0246b3d7-b5d9-4fb2-a4c2-1e4b49259517.png)
-7. Vertex AI
+7. Vertex AI 
+   Training 
+![Vertex Training](https://user-images.githubusercontent.com/62075076/145491796-d4ade55e-6c59-47f4-9400-336c1bc2deb6.jpeg)
+
+   Audio Emotion Storage
+![Audio Emotion Storage Overview](https://user-images.githubusercontent.com/62075076/145492028-683d8e07-86eb-4453-832a-dc70ab554faf.jpeg)
+
+   Logging
+ ![Logging](https://user-images.githubusercontent.com/62075076/145492091-34c2d6e9-acb1-4cfa-b202-6399e7f8ac5f.jpeg)
+
+   Monitoring
+ ![Monitoring](https://user-images.githubusercontent.com/62075076/145492119-16800c67-af59-4c4d-bbe4-9805d5a2e913.jpeg)

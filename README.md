@@ -9,6 +9,8 @@
 ![Screen Shot 2021-12-09 at 12 47 51 AM](https://user-images.githubusercontent.com/62075076/145441600-4fbc8fe3-b71b-416c-b835-e86624c07911.png)
 6. Visualization Happy Voice Emotion
    ![Screen Shot 2021-12-09 at 9 03 10 AM](https://user-images.githubusercontent.com/62075076/145442511-e5032bae-a8c9-4295-819d-288d4e70cf93.png)
+   ![image](https://user-images.githubusercontent.com/46585696/145463773-5c920e8e-332a-4bfc-85ca-abc12943e270.png)
+
    
    Visualization Angry Voice Emotion
 ![Screen Shot 2021-12-09 at 9 03 25 AM](https://user-images.githubusercontent.com/62075076/145442936-161dbf98-09f6-47cb-8000-3436284c62af.png)
